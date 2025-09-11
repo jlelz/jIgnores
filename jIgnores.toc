@@ -1,0 +1,21 @@
+## Title: |cff009bffj|cffffffffIgnores|r
+## Notes: j's Ignores Mod
+## X-Category: system
+
+## Author: jlelz
+## X-Realm: Moonguard/Grobbulus/Whitemane
+
+## DefaultState: enabled
+
+## Interface: 110105
+## Interface-Classic: 11507
+## Interface-BCC: 20504
+## Interface-Wrath: 30403
+## Interface-Cata: 40400
+
+#/run print((select(4, GetBuildInfo())));
+#https://markdownlivepreview.com/
+
+Libs\jUI\index.xml
+
+App.lua
